@@ -286,11 +286,8 @@
     }
     
     .mobile-social-list__link {
-      color: #757575;
-      &:focus,
-      &:hover {
-        color: #2196f3;
-      }
+      color: #2196f3;
+      
     }
     
     .mobile-social-list__item:not(:last-child)::after {
@@ -320,6 +317,7 @@
     }
     
     .mobile-contact__link-tel-font {
+      color: #2196f3;
       font-weight: 500;
       font-size: 34px;
       line-height: 1.17;

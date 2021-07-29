@@ -300,10 +300,6 @@ img {
 }
 
 .mobile-social-list__link {
-  color: #757575;
-}
-
-.mobile-social-list__link:focus, .mobile-social-list__link:hover {
   color: #2196f3;
 }
 
@@ -334,6 +330,7 @@ img {
 }
 
 .mobile-contact__link-tel-font {
+  color: #2196f3;
   font-weight: 500;
   font-size: 34px;
   line-height: 1.17;
